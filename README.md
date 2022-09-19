@@ -4,7 +4,8 @@
 	<h1>uSayit</h1>
 	<p>
 		uSayit was built to give netizens the freedom of speech whatever they want to convey through many social media platforms, the message is anonymous, and can be seen by the general public. <br>
-		(This app is built for learning and experience)
+		(This app is built for learning and experience) <br><br>
+		Website: <a href="https://usayit.otech.id">usayit.otech.id</a>
 	</p>
 </div>
 <div>    
